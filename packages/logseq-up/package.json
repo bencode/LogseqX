@@ -1,0 +1,12 @@
+{
+  "name": "logseq-up",
+  "version": "0.0.1",
+  "keywords": [],
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bencode@163.com",
+  "license": "ISC"
+}

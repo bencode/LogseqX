@@ -1,0 +1,11 @@
+{
+  "name": "logseq-up",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "bencode@163.com",
+  "license": "ISC"
+}
