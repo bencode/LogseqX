@@ -1,3 +1,3 @@
-# logseq-up
+# logsequp
 
 use logseq as a programming language
