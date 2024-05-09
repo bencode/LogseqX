@@ -1,3 +1,3 @@
 # LogseqX
 
-use LogseqX as a programming language
+Use Markdown & [Logseq](https://github.com/logseq/logseq) to build Application.
